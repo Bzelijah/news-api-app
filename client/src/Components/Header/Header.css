@@ -1,0 +1,16 @@
+.header-div-flex {
+  display: flex;
+  justify-content: flex-start
+}
+
+.header-div-size-and-space-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20vw;
+  height: 7vh;
+}
+
+.header-div-margin {
+  margin-left: 2vw;
+}
