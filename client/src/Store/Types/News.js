@@ -1,0 +1,4 @@
+const GET_NEWS = 'GET_NEWS';
+const GET_CURRENT_NEWS = 'GET_CURRENT_NEWS';
+
+export { GET_NEWS, GET_CURRENT_NEWS };

@@ -9,7 +9,7 @@ function App() {
     <Router>
       <Header />
       <Switch>
-        <div className="App">
+        <div className="App app-div-main-container">
           <Route exact path="/">
             <Main />
           </Route>

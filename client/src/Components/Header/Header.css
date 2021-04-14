@@ -1,6 +1,7 @@
 .header-div-flex {
   display: flex;
-  justify-content: flex-start
+  justify-content: flex-start;
+  background-color: white;
 }
 
 .header-div-size-and-space-between {
