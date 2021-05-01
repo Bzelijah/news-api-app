@@ -1,0 +1,16 @@
+.interesting-all-news-div-container-cards {
+    width: 100%;
+}
+
+.interestingNews-div-container-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.interestingNews-div-flex-column {
+    display: flex;
+    flex-direction: column;
+}

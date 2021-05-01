@@ -43,3 +43,9 @@ body {
     transform: rotate(360deg);
   }
 }
+
+@media (max-width: 1400px) {
+  h4{
+    font-size: 14px;
+  }
+}

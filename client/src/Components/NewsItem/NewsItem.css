@@ -10,6 +10,12 @@
   border-radius: 15px;
 }
 
+.newsitem-div-card:hover {
+    position: relative;
+    opacity: 1;
+    transform: scale(1.01);
+}
+
 .newsitem-div-big-card {
   display: flex;
   width: 50vw;
@@ -27,12 +33,9 @@
 }
 
 .newsitem-div-img {
-  width: 90%;
+  width: 80%;
   height: 80%;
   border-radius: 20px;
+  margin-bottom: 1vh;
 }
 
-.newsitem-img-size {
-  width: 90%;
-  height: 50%;
-}
